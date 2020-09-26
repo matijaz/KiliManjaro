@@ -1,0 +1,6 @@
+## Configuring C, C++ Development Environment in Arch Linux
+
+ sudo pacman -Syu
+ sudo pacman -S base-devel
+ sudo pacman -S cmake
+ sudo pacman -S git

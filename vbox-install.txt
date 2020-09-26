@@ -1,0 +1,7 @@
+## Download the Manjaro official xfce distro
+https://manjaro.org/downloads/official/xfce/
+
+## VBox needs in settings to set display graphics controller to be VBoxSVGA
+
+## Here is the whole install process explained 
+https://www.youtube.com/watch?v=ouMgGvpnwlM
