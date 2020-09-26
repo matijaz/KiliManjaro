@@ -1,0 +1,2 @@
+# KiliManjaro
+Manjaro configuration
